@@ -1,0 +1,12 @@
+nav > a {
+  border: none !important;
+}
+
+.github {
+  background-color: black;
+  border-radius: 100%;
+}
+
+section > a {
+  float: right;
+}
